@@ -32,8 +32,8 @@ Teman, silakan login akun GMAIL yang terdaftar diakun SDM PKH untuk mengedit, at
 # SEBAIKNYA DIKERJAKAN DI LAPTOP/PC DAN LOGIN GMAIL TERLEBIH DAHULU
 
 Berikut link untuk akses file kecamatan:
-<!-- <br><br>LINK SUDAH DITUTUP<br><br> -->
-
+ <br><br>LINK SUDAH DITUTUP<br><br> 
+<!--
 | KECAMATAN | KECAMATAN |
 | --- | --- |
 | <a href="https://docs.google.com/spreadsheets/d/15-drRZlZ3GyJxpJ9lEprTb3qRNx1FdZ1/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIAWIGEBANG</a> | <a href="https://docs.google.com/spreadsheets/d/15ppIeb8DQP9rtMOQEn8Iya7TBnu7-ezN/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JAPARA</a> |
@@ -52,6 +52,6 @@ Berikut link untuk akses file kecamatan:
 | <a href="https://docs.google.com/spreadsheets/d/15YTb6za7-XazNf5YxEImmffczBUTCIDR/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">GARAWANGI</a> | <a href="https://docs.google.com/spreadsheets/d/16e4NgAOg5TOZ0k0fRSQQHGiXfOa7r5fu/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SELAJAMBE</a> |
 | <a href="https://docs.google.com/spreadsheets/d/15ZVYzbV7wctI6ayjhWEfn2yhOoYTd-4l/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">HANTARA</a> | <a href="https://docs.google.com/spreadsheets/d/16eGh7z12mqRZYcDL_F__tv3TczKkeY4x/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SINDANGAGUNG</a> |
 | <a href="https://docs.google.com/spreadsheets/d/15jqw5nWaKe8ruK6Ooc_5Uj4IiWnouFJ_/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JALAKSANA</a> | <a href="https://docs.google.com/spreadsheets/d/16fwntpuKYso_YVLKETx-Af8qS8oxBPQs/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SUBANG</a> |
-
+-->
 jika tidak terupdate, mungkin tidak isi rekon online, silakan kirim file yang sudah diisi rekon ke email <a href = "rekon.pkhkng@gmail.com">rekon.pkhkng@gmail.com</a>
 sekian terimakasih. 
