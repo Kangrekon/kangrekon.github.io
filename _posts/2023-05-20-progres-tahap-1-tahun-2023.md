@@ -1,7 +1,6 @@
 # PROGRES PENYALURAN 
 ## TAHAP 1 TAHUN 2023 (Full Termin)
-<br>Sumber data:
-<!-- <a href="https://drive.google.com/drive/folders/17jeHKRsgpT10euqUWbZafGi5HGVWq2AF?usp=share_link"> --> SP2D Tahap 1 Full Termin</a> (12 April 2023 - 45.003 KPM)
+<br>Sumber data: SP2D Tahap 1 Full Termin (12 April 2023 - 45.003 KPM)
 ## Progres Tahap 1 Update Kamis 23 Maret 2023 <br>
 ![Progres Tahap 1 Update Kamis 4 Mei 2023](https://user-images.githubusercontent.com/114164637/236200068-649b0cba-e39f-440c-a982-2731573b79d4.png)
 <br>
